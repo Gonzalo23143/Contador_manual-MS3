@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conador_Manual2", "Conador_Manual2\Conador_Manual2.csproj", "{6F49129E-9FF1-481E-91A4-2A89861ACF1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F49129E-9FF1-481E-91A4-2A89861ACF1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F49129E-9FF1-481E-91A4-2A89861ACF1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F49129E-9FF1-481E-91A4-2A89861ACF1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F49129E-9FF1-481E-91A4-2A89861ACF1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41668444-5209-4ED1-81C6-99FFF052F0C4}
+	EndGlobalSection
+EndGlobal
